@@ -15,3 +15,9 @@ public class Main {
         }
     }
 }
+
+//teste de comentario de codigo
+
+teste/*
+de comentario
+de blogo*/
