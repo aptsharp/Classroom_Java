@@ -18,6 +18,8 @@ public class Main {
 
 //teste de comentario de codigo
 
-teste/*
+/*
+teste
 de comentario
-de blogo*/
+de blogo
+*/
